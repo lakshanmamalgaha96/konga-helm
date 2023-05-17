@@ -1,1 +1,1 @@
-# konga-helm
+# Konga Helm Chart
