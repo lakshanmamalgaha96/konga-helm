@@ -8,7 +8,7 @@ entries:
     digest: a7e8aae099db765255d45cc860af35f4e888294e0015614fe8fb471d81d02216
     name: konga
     urls:
-    - https://lakshanmamalgaha96.github.io/konga-helm/konga-1.1.0.tgz
+    - konga-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -17,6 +17,6 @@ entries:
     digest: 7a86b10611be170bb9bda34cac62a78b9aa501de9d44dd8e965144297757b1f1
     name: konga
     urls:
-    - https://lakshanmamalgaha96.github.io/konga-helm/konga-1.0.0.tgz
+    - konga-1.0.0.tgz
     version: 1.0.0
 generated: "2023-06-20T17:33:43.3382706+05:30"
