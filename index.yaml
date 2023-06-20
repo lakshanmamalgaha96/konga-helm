@@ -8,6 +8,6 @@ entries:
     digest: 7a86b10611be170bb9bda34cac62a78b9aa501de9d44dd8e965144297757b1f1
     name: konga
     urls:
-    - konga-1.0.0.tgz
+    - konga-1.1.0.tgz
     version: 1.0.0
 generated: "2023-05-17T12:29:08.33005062+05:30"
